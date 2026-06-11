@@ -24,7 +24,7 @@ G.L. Bajaj Institute of Technology and Management
 * Object-Oriented Programming
 * Problem Solving
 * Git & GitHub
-* Cybersecurity Fundamentals
+* Full Stack Web-Development
 
 ---
 
