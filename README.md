@@ -1,105 +1,81 @@
-# Hi there 👋, I'm Aryan Gupta
+<div align="center">
 
-### Computer Science (AI) Student | Aspiring Software Engineer
+# Aryan Gupta
 
-I am a B.Tech student in **Computer Science & Engineering (Artificial Intelligence)** at **G.L. Bajaj Institute of Technology and Management**.
+**CSE (AI) · GL Bajaj · Noida**
 
-I am passionate about technology and currently focused on strengthening my foundations in **C++**, **Data Structures & Algorithms**, and **Problem Solving**. My long-term interests include **Software Engineering**, **Full Stack Development**, and **Artificial Intelligence & Machine Learning**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-maybe--aryan.netlify.app-000000?style=flat-square)](https://maybe-aryan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-51975b319/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AryanCreates-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AryanCreates/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-AryanCreates-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/AryanCreates)
+[![Gmail](https://img.shields.io/badge/Email-guptaaryan4501%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guptaaryan4501@gmail.com)
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**
-**Computer Science & Engineering (Artificial Intelligence)**
-G.L. Bajaj Institute of Technology and Management
-2025 – 2029
+</div>
 
 ---
 
-## 🌱 Currently Learning
+2nd year B.Tech student studying **Computer Science & Engineering (AI)** at GL Bajaj. Spending most of my time getting comfortable with C++, DSA, and slowly figuring out how web development works. Also have a Python project or two from when I was experimenting. Nothing fancy yet — still in the foundation-building phase.
 
-* C++
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Problem Solving
-* Git & GitHub
-* Full Stack Web-Development
+📍 Noida, India &nbsp;·&nbsp; Batch of 2029
 
 ---
 
-## 🚀 Current Goals
+## Currently Learning
 
-* Build a strong foundation in DSA
-* Develop real-world projects
-* Improve problem-solving skills
-* Prepare for software engineering internships
-* Explore Full Stack Development
-* Learn AI & Machine Learning concepts
+- Data Structures & Algorithms in C++
+- Object-Oriented Programming
+- Full Stack Web Development (HTML → CSS → JavaScript)
+- Git & version control
 
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+**Up next:** Machine Learning — the actual reason I picked AI as my specialization.
 
 ---
 
-## ⭐ Featured Projects
+## Tech Stack
 
-### 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, skills, and learning journey.
-
-🔗 **Live Website:**
-https://maybe-aryan.netlify.app/
-
----
-
-### ☀️ Summer Assignment Repository
-
-A collection of day-wise C++ programming assignments completed as part of academic coursework and coding practice.
-
-🔗 **Repository:**
-https://github.com/Aryan-Creates/Summer_Assignment_25112CN190
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-51975b319/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/areyaryann_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guptaaryan4501@gmail.com)
+**[Summer Practice Assignment](https://github.com/Aryan-Creates/Summer_Assignment_25112CN190)** `C++`
+Day-wise C++ programming assignments from summer coursework. Covers loops, functions, arrays, and basic problem solving.
 
----
+**[Vasuu](https://github.com/Aryan-Creates/Vasuu)** `Python`
+A voice assistant I built after finishing a Python course — took inspiration from JARVIS. First real project I made on my own.
 
-## 📊 GitHub Statistics
+**[Portfolio Website](https://maybe-aryan.netlify.app/)** `HTML · CSS`
+My personal site. Still being worked on.
 
-![](https://github-readme-stats.vercel.app/api?username=Aryan-Creates\&show_icons=true\&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Creates\&layout=compact\&theme=dark)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-Creates\&theme=dark)
+**[DSA in C++](https://github.com/Aryan-Creates/dsa-cpp)** `C++`
+Ongoing repo where I practice data structures and algorithms as I learn them.
 
 ---
 
-### 💡 Favorite Quote
+## Stats
 
-> "First, solve the problem. Then, write the code."
+<div align="center">
 
-— John Johnson
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Creates&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Creates&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=c)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Aryan-Creates&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
